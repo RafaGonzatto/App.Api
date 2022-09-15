@@ -1,0 +1,17 @@
+C:\Users\aless\source\repos\App\App.Persistense\bin\Debug\net6.0\App.Persistense.deps.json
+C:\Users\aless\source\repos\App\App.Persistense\bin\Debug\net6.0\App.Persistense.runtimeconfig.json
+C:\Users\aless\source\repos\App\App.Persistense\bin\Debug\net6.0\App.Persistense.dll
+C:\Users\aless\source\repos\App\App.Persistense\bin\Debug\net6.0\App.Persistense.pdb
+C:\Users\aless\source\repos\App\App.Persistense\bin\Debug\net6.0\App.Domain.dll
+C:\Users\aless\source\repos\App\App.Persistense\bin\Debug\net6.0\App.Domain.pdb
+C:\Users\aless\source\repos\App\App.Persistense\obj\Debug\net6.0\App.Persistense.csproj.AssemblyReference.cache
+C:\Users\aless\source\repos\App\App.Persistense\obj\Debug\net6.0\App.Persistense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\source\repos\App\App.Persistense\obj\Debug\net6.0\App.Persistense.AssemblyInfoInputs.cache
+C:\Users\aless\source\repos\App\App.Persistense\obj\Debug\net6.0\App.Persistense.AssemblyInfo.cs
+C:\Users\aless\source\repos\App\App.Persistense\obj\Debug\net6.0\App.Persistense.csproj.CoreCompileInputs.cache
+C:\Users\aless\source\repos\App\App.Persistense\obj\Debug\net6.0\App.Persistense.csproj.CopyComplete
+C:\Users\aless\source\repos\App\App.Persistense\obj\Debug\net6.0\App.Persistense.dll
+C:\Users\aless\source\repos\App\App.Persistense\obj\Debug\net6.0\refint\App.Persistense.dll
+C:\Users\aless\source\repos\App\App.Persistense\obj\Debug\net6.0\App.Persistense.pdb
+C:\Users\aless\source\repos\App\App.Persistense\obj\Debug\net6.0\App.Persistense.genruntimeconfig.cache
+C:\Users\aless\source\repos\App\App.Persistense\obj\Debug\net6.0\ref\App.Persistense.dll
